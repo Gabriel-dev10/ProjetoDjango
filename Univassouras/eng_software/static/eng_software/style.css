@@ -1,0 +1,44 @@
+body {
+    background-color: #f4f1e6;  
+    color: black;
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px; 
+    margin: auto;     
+    padding: 20px;
+    border: 1px solid #ccc;  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+    background-color: white;  
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;  
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.5em;  
+    margin-top: 1.5rem;
+    border-bottom: 1px solid #ccc;  
+    padding-bottom: 5px;
+}
+
+.data {
+    font-style: italic;
+    font-size: 0.9em; 
+    margin: 10px 0;
+}
+
+.meio p {
+    line-height: 1.6; 
+    margin: 10px 0;    
+}
